@@ -5,7 +5,7 @@
       <h1 class="title">
         skuy.now
       </h1>
-      <h2 class="subtitle">
+      <h2 class="text-xl text-blue-500">
         skuy
       </h2>
       <div class="links">
