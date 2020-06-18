@@ -45,6 +45,7 @@ export default {
   /*
   ** Build configuration
   */
+  srcDir: 'src/',
   build: {
     /*
     ** You can extend webpack config here
